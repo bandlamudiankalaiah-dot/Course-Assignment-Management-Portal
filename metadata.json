@@ -1,0 +1,6 @@
+{
+  "name": "Course & Assignment Management Portal",
+  "description": "Role-based academic portal for students and professors featuring course enrollment, individual and group assignment submissions with leader acknowledgment, JWT authentication, and submission progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
